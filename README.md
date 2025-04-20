@@ -1,7 +1,7 @@
 # existence.com - AI Assistant
 
 **Founder:** Muhammad Mateen Iqbal  
-**Born:** 24 Feb 2007, Lahore (From Lakki Marwat, KPK)
+**Born:** 24 Feb 2007, Lahore (From Lakki Marwat, KPK, Pakistan)
 
 existence.com is a deployable AI platform built in Python using:
 - Chat + Math Solver + Code Executor
